@@ -1,1 +1,2 @@
 # Student-Co-curricular-Portal
+The Student Co-curricular Portal is a simple and user-friendly web platform that helps students stay involved in co-curricular activities like workshops, events, competitions, and club programs. It makes it easy for students to explore events, register online, and keep track of their participation. Teachers or admins can use the portal to post new events, manage attendees, and even generate certificates or reports. The main goal is to support students' all-round development by making it easier to take part in activities outside the classroom.

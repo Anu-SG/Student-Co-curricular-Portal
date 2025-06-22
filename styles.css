@@ -1,0 +1,107 @@
+body{
+  background-color: #EAF6FF;
+    /*background-image: url('sun.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+header{
+    overflow: hidden;
+    padding: 20px 10px;
+    background-color:  white;
+    color: #001F42;
+    border-radius: 5px;
+    border: 1px solid #092f58;
+    font-family: 'Segoe UI', sans-serif;
+    
+    
+}
+.logo{
+    
+ float: left;
+  color: #001F42;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 38px; 
+  line-height: 25px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.nav-links{
+    float: right;
+}
+a{
+    text-decoration: none;
+    font-size: 15px; 
+    font-weight: bold;
+
+}
+a:visited{
+    color:#001F42;
+}
+a:link{
+    color:#001F42;
+}
+.hero{
+    text-align: center;
+    color:#001F42;
+    
+}
+
+h1{
+    font-weight: bold;
+    font-size: 25px;
+}
+ul {
+  list-style-type: none;
+  margin-top: 25px;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  top: 5px;  
+
+}
+li {
+  display: inline-block;
+  color: #001F42;
+  padding: 20px;
+  text-decoration: none;
+  
+}
+.title{
+    text-align: center;
+    color: #001F42;
+    font-weight: bold;
+    font-size: 30px;
+    margin:100px 0;
+   ;
+}
+label {
+    display: block;
+    margin: 0.5rem 0;
+    position: absolute;
+    
+   
+  }
+.search-bar {
+      width: 500px;
+      color:#E4F2FE;
+      margin: 0 auto;
+    }
+
+    .search-bar input[type="text"] {
+      width: 100%;
+      padding: 20px;
+      font-size: 20px;
+      border-radius: 20px;
+      border: 2px solid #001F42;
+      text-align: center;
+      background-image: url('download.png');
+      background-size: 30px;
+      background-repeat: no-repeat;
+      background-position: 15px 15px;
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+
+  
